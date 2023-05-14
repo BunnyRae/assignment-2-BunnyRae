@@ -1,0 +1,14 @@
+Player's secret code: 1234
+Computer's secret code: 0486
+
+Turn | Player's Guess | Result | Computer's Guess | Result
+-----|----------------|--------|-----------------|--------
+1    |2345            |0B1C    |1567             |1B0C
+2    |5689            |1B1C    |3241             |1B3C
+3    |2345            |0B1C    |5920             |0B1C
+4    |1278            |0B1C    |8973             |0B1C
+5    |6890            |0B3C    |8072             |0B1C
+6    |3458            |1B1C    |8470             |0B1C
+7    |4689            |1B2C    |0974             |1B0C
+
+The game was a draw.

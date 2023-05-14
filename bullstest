@@ -1,0 +1,14 @@
+Player's secret code: 4368
+Computer's secret code: 5607
+
+Turn | Player's Guess | Result | Computer's Guess | Result
+-----|----------------|--------|-----------------|--------
+1    |8356            |0B2C    |5401             |0B1C
+2    |1234            |0B0C    |5708             |1B0C
+3    |3467            |1B1C    |3701             |0B1C
+4    |2341            |0B0C    |5931             |0B1C
+5    |1234            |0B0C    |2471             |0B1C
+6    |3567            |1B2C    |5306             |1B1C
+7    |5789            |1B1C    |5807             |0B1C
+
+The game was a draw.
